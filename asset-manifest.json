@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_with_platzi/static/css/main.b85a9192.css",
+    "main.js": "/react_with_platzi/static/js/main.4f11c8cf.js",
+    "static/media/check.svg": "/react_with_platzi/static/media/check.9cfdbfe96b6007794c07e411d106d287.svg",
+    "index.html": "/react_with_platzi/index.html",
+    "static/media/delete.svg": "/react_with_platzi/static/media/delete.4e586dc6e2f854ae3d5a5125ddb13a60.svg",
+    "main.b85a9192.css.map": "/react_with_platzi/static/css/main.b85a9192.css.map",
+    "main.4f11c8cf.js.map": "/react_with_platzi/static/js/main.4f11c8cf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b85a9192.css",
+    "static/js/main.4f11c8cf.js"
+  ]
+}
